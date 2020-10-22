@@ -2,3 +2,23 @@ img {
   max-height: 400px;
   max-width: 400px;
 }
+a:link {
+  color: #f7585f;
+  padding: 5pt;
+}
+a:visited {
+  color: #d68e08;
+  padding: 5pt;
+}
+a:hover{
+  color: #99372a;
+  padding: 5pt;
+}
+a.current{
+  color: #919191;
+  padding: 5pt;
+}
+a:active{
+  color: #f7b742;
+  padding: 5pt;
+}
