@@ -3,27 +3,27 @@ img {
   max-width: 400px;
 }
 a:link {
-  color: #403ea0;
+  color: #3e924c;
   padding: 5pt;
-  border: 1px solid #7c6180;
+  border: 1px solid #1f6128;
   text-decoration: none;
-  background-color: #c6a7d8;
+  background-color: #91d89f;
 }
 a:visited {
   color: #7c55a8;
   padding: 5pt;
 }
 a:hover{
-  color: #7185a5;
+  color: #4daf5e;
   padding: 5pt;
   box-shadow: 2px 2px 1px 1px #b3b2b2;
 }
 a.current{
-  color: #7b7b7b;
+  color: #9d9d9d;
   padding: 5pt;
 }
 a:active{
-  color: #ad7a1c;
+  color: #104820;
   padding: 5pt;
 }
 li{
